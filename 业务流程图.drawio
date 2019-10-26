@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-26T06:44:09.690Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="I8E3Ml8MKBtR4aAceQ8r" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T06:46:04.567Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="MB3IxnKbz_V9_bpIc3co" version="12.1.7" type="github" pages="1">
   <diagram id="NL3Gt1PZ4-QvTYmWhQju" name="第 1 页">
     <mxGraphModel dx="809" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="p2iApNeuUnW86oLl-AI1-296" value="搜索对象为群体时展示图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-1">
           <mxGeometry x="1" width="139" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p2iApNeuUnW86oLl-AI1-299" value="" style="shape=mxgraph.signs.people.pedestrian;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=16;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-1">
+          <mxGeometry x="13" y="38.5" width="37" height="49" as="geometry"/>
         </mxCell>
         <mxCell id="p2iApNeuUnW86oLl-AI1-77" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="321" y="401" width="850" height="470" as="geometry"/>
@@ -568,9 +571,6 @@
         <mxCell id="p2iApNeuUnW86oLl-AI1-182" value="2019-10-11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-77">
           <mxGeometry x="37" y="426" width="71" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="p2iApNeuUnW86oLl-AI1-183" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#B3B3B3;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=10;gradientColor=none;gradientDirection=west;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-77">
-          <mxGeometry x="19" y="21" width="37" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="p2iApNeuUnW86oLl-AI1-185" value="注册" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-77">
           <mxGeometry x="60" y="450" width="40" height="20" as="geometry"/>
         </mxCell>
@@ -591,6 +591,9 @@
         </mxCell>
         <mxCell id="p2iApNeuUnW86oLl-AI1-297" value="搜索对象为个体时展示图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-77">
           <mxGeometry x="-2" y="3" width="139" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="p2iApNeuUnW86oLl-AI1-300" value="" style="shape=mxgraph.signs.people.man_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=16;" vertex="1" parent="p2iApNeuUnW86oLl-AI1-77">
+          <mxGeometry x="9" y="41" width="21" height="49" as="geometry"/>
         </mxCell>
         <mxCell id="p2iApNeuUnW86oLl-AI1-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;startArrow=block;startFill=1;endArrow=none;endFill=0;strokeColor=#858585;fontSize=10;" edge="1" parent="1" source="p2iApNeuUnW86oLl-AI1-185">
           <mxGeometry relative="1" as="geometry">
