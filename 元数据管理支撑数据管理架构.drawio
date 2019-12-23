@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T13:31:43.310Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="cFNiF_aN4mlZbXeCmLfi" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T13:33:18.989Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FIuTJbqeCZjW98CQToIw" version="12.4.3" type="github" pages="1">
   <diagram id="ZikUBlQlaSI12r_E4KC8" name="第 1 页">
     <mxGraphModel dx="809" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -11,16 +11,19 @@
           <mxGeometry x="83" y="550" width="654" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ZpFADo_pX2ZHXtXQgRQn-3" value="主数据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;gradientColor=#0066CC;strokeColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="103" y="476" width="120" height="60" as="geometry"/>
+          <mxGeometry x="106" y="476" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZpFADo_pX2ZHXtXQgRQn-4" value="数据质量管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;gradientColor=#0066CC;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="243" y="476" width="120" height="60" as="geometry"/>
+          <mxGeometry x="267" y="476" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZpFADo_pX2ZHXtXQgRQn-5" value="数据标准管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;gradientColor=#0066CC;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="393" y="476" width="120" height="60" as="geometry"/>
+          <mxGeometry x="429" y="476" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZpFADo_pX2ZHXtXQgRQn-6" value="数据安全管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;gradientColor=#0066CC;strokeColor=none;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="543" y="476" width="120" height="60" as="geometry"/>
+          <mxGeometry x="590" y="476" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZpFADo_pX2ZHXtXQgRQn-7" value="数据资产管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;gradientColor=#0000FF;fontSize=15;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="106" y="420" width="604" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
