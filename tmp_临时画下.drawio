@@ -1,1 +1,56 @@
-<mxfile host="www.draw.io" modified="2019-12-24T11:33:29.921Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" version="12.4.3" etag="F1j6-SANvOu974SEryNM" type="github"><diagram id="RzD0Ts5M7BOjjJ8hxcEr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-24T12:00:00.993Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="yAD8VZUhDVRY_Sf9Sl7c" version="12.4.3" type="github" pages="1">
+  <diagram id="RzD0Ts5M7BOjjJ8hxcEr" name="第 1 页">
+    <mxGraphModel dx="2409" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-1" value="产品经理(需求提出人)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-2" value="后台开发A" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="370" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-3" value="后台开发" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="890" y="630" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-4" value="前端开发" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="507" y="630" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;我要提问题&lt;/font&gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="8TviweCEKHw1Rt5PnE89-5" target="8TviweCEKHw1Rt5PnE89-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-5" value="测试员" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-10" value="后台开发B" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="67" y="370" width="37" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-15" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;提bug要素&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;类别: bug or&amp;nbsp; 建议优化&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;环境:&lt;/font&gt;&lt;/li&gt;&lt;li&gt;时间: yyyy-MM-dd HH:mm&lt;/li&gt;&lt;li&gt;&lt;span&gt;现象描述:&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;复现手段:&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;截图(辅助现象描述,或者不易复现的问题)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="360" width="250" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="8TviweCEKHw1Rt5PnE89-16" target="8TviweCEKHw1Rt5PnE89-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-21" value="bug 类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="8TviweCEKHw1Rt5PnE89-19">
+          <mxGeometry x="-0.3016" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="8TviweCEKHw1Rt5PnE89-16" target="8TviweCEKHw1Rt5PnE89-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-22" value="建议优化 类型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="8TviweCEKHw1Rt5PnE89-20">
+          <mxGeometry x="-0.1719" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="230" width="30" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="8TviweCEKHw1Rt5PnE89-18" value="&lt;h1 style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;提建议优化要素&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;类别: bug or&amp;nbsp; 建议优化&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;环境:&lt;/font&gt;&lt;/li&gt;&lt;li&gt;时间: yyyy-MM-dd HH&lt;/li&gt;&lt;li&gt;&lt;span&gt;现象描述:&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="250" height="160" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
