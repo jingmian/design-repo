@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-26T03:47:39.675Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="rnPb2BhApPxsJlnRpREG" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-26T11:38:51.200Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Q6YREspbJtSq0_JI-VA1" version="12.4.3" type="github" pages="1">
   <diagram id="LP19ljsqffcebNAXlvKP" name="第 1 页">
     <mxGraphModel dx="2409" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="FgspnRTVD1OUUb8VOJBo-31" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="180" y="580" width="150" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="FgspnRTVD1OUUb8VOJBo-32" value="主数据管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;container=0;" parent="FgspnRTVD1OUUb8VOJBo-31" vertex="1">
+        <mxCell id="FgspnRTVD1OUUb8VOJBo-32" value="主数据管理(app)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;container=0;" parent="FgspnRTVD1OUUb8VOJBo-31" vertex="1">
           <mxGeometry width="150" height="190" as="geometry">
             <mxRectangle x="70" y="50" width="90" height="26" as="alternateBounds"/>
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="FgspnRTVD1OUUb8VOJBo-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-130" y="330" width="150" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="FgspnRTVD1OUUb8VOJBo-58" value="任务管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;container=0;" parent="FgspnRTVD1OUUb8VOJBo-57" vertex="1">
+        <mxCell id="FgspnRTVD1OUUb8VOJBo-58" value="流程管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;container=0;" parent="FgspnRTVD1OUUb8VOJBo-57" vertex="1">
           <mxGeometry width="150" height="190" as="geometry">
             <mxRectangle x="70" y="50" width="90" height="26" as="alternateBounds"/>
           </mxGeometry>
