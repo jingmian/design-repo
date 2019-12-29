@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-29T09:25:31.909Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="BxS6fLWnDuukmkJ-Z31U" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-29T09:28:37.429Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="UFaic3PSH7mtJfMvA4pL" version="12.4.7" type="github">
   <diagram id="OQejn_Y14eyWkAoDzk5G" name="第 1 页">
-    <mxGraphModel dx="809" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -23,13 +23,13 @@
           <mxGeometry x="190" y="160" width="300" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5sG0NAVAFXr0Sf_U8vXh-9" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="190" y="61" width="75" height="30" as="geometry"/>
+          <mxGeometry x="190" y="70" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="5sG0NAVAFXr0Sf_U8vXh-10" value="血缘追溯" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="265" y="61" width="75" height="30" as="geometry"/>
+          <mxGeometry x="265" y="70" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="5sG0NAVAFXr0Sf_U8vXh-11" value="质量监控" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="340" y="61" width="75" height="30" as="geometry"/>
+          <mxGeometry x="340" y="70" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="5sG0NAVAFXr0Sf_U8vXh-12" value="编排引擎" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="190" y="130" width="150" height="30" as="geometry"/>
@@ -38,10 +38,10 @@
           <mxGeometry x="340" y="130" width="150" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="5sG0NAVAFXr0Sf_U8vXh-14" value="报表输出" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="415" y="61" width="75" height="30" as="geometry"/>
+          <mxGeometry x="415" y="70" width="75" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="51XwVEyQgdlHVBABlyBS-1" value="数据开发工具套件" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="190" y="91" width="300" height="39" as="geometry"/>
+          <mxGeometry x="190" y="100" width="300" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
