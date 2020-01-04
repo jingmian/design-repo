@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T15:46:23.409Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="i7C39iioz_mc6Pv-9xIC" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T15:47:50.741Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PgCflrffw8REcVtgt9Kc" version="12.4.8" type="github">
   <diagram id="LP19ljsqffcebNAXlvKP" name="第 1 页">
     <mxGraphModel dx="2454" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -176,23 +176,32 @@
         <mxCell id="DVE84L7lwaM5PH8MSwEA-2" value="主数据管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="860" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="DVE84L7lwaM5PH8MSwEA-5" target="DVE84L7lwaM5PH8MSwEA-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-5" value="数据质量管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="990" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="DVE84L7lwaM5PH8MSwEA-6" target="DVE84L7lwaM5PH8MSwEA-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-6" value="数据安全管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="990" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1" source="DVE84L7lwaM5PH8MSwEA-11" target="DVE84L7lwaM5PH8MSwEA-16">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-11" value="数据血缘管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="990" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-15" value="common-utils" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="630" width="120" height="60" as="geometry"/>
+          <mxGeometry x="330" y="630" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;strokeWidth=2;" edge="1" parent="1" source="DVE84L7lwaM5PH8MSwEA-16" target="DVE84L7lwaM5PH8MSwEA-15">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-16" value="core" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="730" width="120" height="60" as="geometry"/>
+          <mxGeometry x="330" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-150" y="610" width="190" height="250" as="geometry"/>
