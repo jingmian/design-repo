@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T15:53:20.067Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="XctI5FnltRWhRdfbLcme" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T15:55:36.349Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="cdZLPw6a901MA5NAakgu" version="12.4.8" type="github">
   <diagram id="LP19ljsqffcebNAXlvKP" name="第 1 页">
     <mxGraphModel dx="2454" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -203,7 +203,19 @@
         <mxCell id="DVE84L7lwaM5PH8MSwEA-16" value="core" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="DVE84L7lwaM5PH8MSwEA-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="630" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="DVE84L7lwaM5PH8MSwEA-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" as="sourcePoint"/>
+            <mxPoint x="110" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-36" value="目前没有这种情况, 后面可能会有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DVE84L7lwaM5PH8MSwEA-37">
+          <mxGeometry y="10" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DVE84L7lwaM5PH8MSwEA-27" value="" style="group;comic=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-150" y="610" width="190" height="250" as="geometry"/>
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-8" value="公共外部资源管理(plugins)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="DVE84L7lwaM5PH8MSwEA-27">
@@ -223,18 +235,6 @@
         </mxCell>
         <mxCell id="DVE84L7lwaM5PH8MSwEA-14" value="Excel处理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DVE84L7lwaM5PH8MSwEA-27">
           <mxGeometry x="40" y="200" width="110" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="DVE84L7lwaM5PH8MSwEA-37" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="630" width="110" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="DVE84L7lwaM5PH8MSwEA-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="DVE84L7lwaM5PH8MSwEA-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" as="sourcePoint"/>
-            <mxPoint x="110" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DVE84L7lwaM5PH8MSwEA-36" value="目前没有这种情况, 后面可能会有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DVE84L7lwaM5PH8MSwEA-37">
-          <mxGeometry y="10" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
